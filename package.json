@@ -1,0 +1,19 @@
+{
+  "name": "ist.primer1",
+  "version": "1.0.0",
+  "description": "\"Primer1 za deljeni modul - IST\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dusevna1994/ist.TestModul1.git"
+  },
+  "author": "Nikola Babic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dusevna1994/ist.TestModul1/issues"
+  },
+  "homepage": "https://github.com/Dusevna1994/ist.TestModul1#readme"
+}
